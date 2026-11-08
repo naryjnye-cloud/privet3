@@ -1,0 +1,107 @@
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Приветствие — AI-навыки финансиста 2026</title>
+<style>
+  body {
+    margin: 0;
+    padding: 40px 16px;
+    background: #f4f6f8;
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    color: #1f2d3d;
+    line-height: 1.65;
+  }
+
+  .card {
+    max-width: 720px;
+    margin: 0 auto;
+    background: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
+    overflow: hidden;
+  }
+
+  .card__body {
+    padding: 40px 36px 40px;
+  }
+
+  .card__title {
+    font-size: 22px;
+    font-weight: 700;
+    margin: 0 0 20px;
+    color: #0f2b46;
+    letter-spacing: 0.2px;
+  }
+
+  .card__text p {
+    margin: 0 0 16px;
+    font-size: 16px;
+  }
+
+  .card__text p:last-child {
+    margin-bottom: 0;
+  }
+
+  .card__signature {
+    margin-top: 28px;
+    font-weight: 600;
+    color: #17a589;
+  }
+
+  .card__footer {
+    margin-top: 32px;
+    padding-top: 20px;
+    border-top: 1px solid #e5e9ef;
+    font-size: 15px;
+    color: #4a5a6a;
+  }
+
+  .card__footer strong {
+    color: #0f2b46;
+  }
+
+  .card__date {
+    margin-top: 8px;
+    font-size: 14px;
+    color: #7a8a9a;
+    font-style: italic;
+  }
+
+  @media (max-width: 520px) {
+    .card__body { padding: 28px 20px 28px; }
+    .card__title { font-size: 19px; }
+    .card__text p { font-size: 15px; }
+    .card__footer { font-size: 14px; }
+    .card__date { font-size: 13px; }
+  }
+</style>
+</head>
+<body>
+
+  <div class="card">
+    <div class="card__body">
+      <h1 class="card__title">Дорогие коллеги по потоку, здравствуйте!</h1>
+
+      <div class="card__text">
+        <p>Рада приветствовать нас на старте программы <strong>«AI-навыки финансиста, 2026»</strong>.</p>
+
+        <p>Впереди — освоение инструментов, которые меняют профессию: от промпт-инжиниринга до практической работы с AI-сервисами. Путь не самый простой, но именно такие навыки сегодня конвертируются в реальную стоимость специалиста.</p>
+
+        <p>Желаю нам удачи и стальных нервов на этом нелегком, но невероятно интересном пути. Пусть денежные потоки будут управляемыми, прибыль — предсказуемой, а решения — точными. Пусть сложные алгоритмы становятся понятнее, а кейсы — полезнее.</p>
+
+        <p>Терпения нам, коллеги, и профессионального куража. Уверена, совсем скоро наши новые навыки конвертируются в реальные дивиденды — как для наших компаний, так и для нашего личного карьерного трека.</p>
+
+        <p class="card__signature">В добрый путь!</p>
+      </div>
+
+      <div class="card__footer">
+        <p>С искренним уважением,<br>
+        <strong>Елена, СПб</strong></p>
+        <p class="card__date">8 ноября 2026 г.</p>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
